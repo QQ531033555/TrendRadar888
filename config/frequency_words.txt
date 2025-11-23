@@ -1,6 +1,6 @@
 AI
 chatgpt
-gemini 3.0
+gemini3.0
 nano Banana
 千问
 灵光
@@ -92,10 +92,6 @@ ai
 
 国产
 中国
-
-美国
-日本
-韩国
 
 芯片
 光刻机
